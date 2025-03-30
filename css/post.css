@@ -1,0 +1,18 @@
+.post_container{
+    box-shadow: none;
+    border: none;
+}
+
+.titulo{
+    text-decoration: none;
+    border: 0;
+    padding: 10px 0;
+}
+
+.titulo:hover{
+    text-decoration: none;
+}
+
+.img{
+    border-radius: 15px;
+}
